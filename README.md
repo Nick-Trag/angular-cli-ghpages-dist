@@ -1,3 +1,11 @@
+# angular-cli-ghpages-dist
+This is the dist/ folder of my fork of angular-cli-ghpages, which I edited to fix a critical security vulnerability.
+It can be directly installed from this GitHub repository using NPM:
+
+```bash
+npm install git+https://github.com/Nick-Trag/angular-cli-ghpages-dist.git
+```
+
 # angular-cli-ghpages
 
 [![NPM version][npm-image]][npm-url]
