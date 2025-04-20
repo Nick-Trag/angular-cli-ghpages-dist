@@ -3,7 +3,7 @@ This is the dist/ folder of my fork of angular-cli-ghpages, which I edited to fi
 It can be directly installed from this GitHub repository using NPM:
 
 ```bash
-npm install git+https://github.com/Nick-Trag/angular-cli-ghpages-dist.git
+npm install git+https://github.com/Nick-Trag/angular-cli-ghpages-dist.git --save-dev
 ```
 
 # angular-cli-ghpages
